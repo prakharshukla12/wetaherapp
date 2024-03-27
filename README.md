@@ -1,2 +1,2 @@
-# wetaherapp
+# weatherapp
 weatherdescription
